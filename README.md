@@ -75,7 +75,7 @@ NOTE: SIEM / Alerts: Future integration point for forwarding structured security
 # How to Run
 
 ### Install dependencies
-* npm install\
+* npm install
 ### Create .env file
 * nano .env\
 CLIENT_ID=your-client-id\
